@@ -1,2 +1,8 @@
-# mp3player-chrome-extension
-Chrome extension for mp3player
+# mp3player extension
+
+
+ “chrome://extensions”
+
+ Load unpacked extension
+
+ Point to folder
